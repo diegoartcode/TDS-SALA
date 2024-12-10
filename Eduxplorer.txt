@@ -1,0 +1,50 @@
+# Principais comandos git
+
+1. **`git init`**  
+   Inicializa um repositório Git vazio no diretório atual.
+
+2. **`git clone <URL>`**  
+   Faz uma cópia de um repositório remoto para o diretório local.
+
+3. **`git add <arquivo>`**  
+   Adiciona arquivos ou alterações específicas à área de stage (preparação para commit).
+
+4. **`git commit -m "<mensagem>"`**  
+   Registra as alterações no repositório com uma mensagem descritiva.
+
+5. **`git status`**  
+   Exibe o status atual do repositório, incluindo arquivos modificados, não rastreados e preparados para commit.
+
+6. **`git branch`**  
+   Mostra as branches existentes no repositório ou cria uma nova branch se usada com um nome.
+
+7. **`git checkout <branch>`**  
+   Altera para a branch especificada ou recupera um estado específico do repositório.
+
+8. **`git merge <branch>`**  
+   Combina as alterações de outra branch na branch atual.
+
+9. **`git pull`**  
+   Atualiza o repositório local com as alterações do repositório remoto e realiza um merge automático.
+
+10. **`git push`**  
+    Envia as alterações do repositório local para o repositório remoto.
+
+11. **`git fetch`**  
+    Obtém as atualizações do repositório remoto, mas não realiza merge automaticamente.
+
+12. **`git log`**  
+    Mostra o histórico de commits do repositório.
+
+13. **`git diff`**  
+    Mostra as diferenças entre os arquivos ou commits.
+
+14. **`git reset`**  
+    Remove alterações da área de stage ou redefine commits.
+
+15. **`git remote`**  
+    Gera informações sobre repositórios remotos ou configura novos remotos.
+
+16. **`git rm <arquivo>`**  
+    Remove um arquivo do repositório e da área de stage.
+
