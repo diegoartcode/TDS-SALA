@@ -1,7 +1,7 @@
 
 
 
-# Comandos Git
+# Comandos Git Principais
 
 ## 1. `git init`
 Inicializa um repositório Git vazio ou recria um novo repositório em um diretório existente.
